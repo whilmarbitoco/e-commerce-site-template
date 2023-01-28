@@ -1,0 +1,36 @@
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.carts {
+    position: fixed;
+    height: 100vh;
+    left: 0;
+    top: 300px;
+    width: 100vw;
+    background-color: #fff;
+    z-index: 999;
+}
+.xmgs {
+    margin-right: 10px;
+}
+
+.npq {
+    padding: 0;
+}
+
+.chead {
+    width: 100vw;
+}
+
+.fa {
+    font-size: 2rem;
+}
+
+.tbn {
+    margin: 0 5px;
+}
+
+
